@@ -4,7 +4,7 @@ I'm Ayush Benny
 
 # 👋 Hey, I’m [Your Name]
 
-**💻 Software Developer • ⚙️ Backend Engineer • 🧠 AI Explorer**
+**💻 Full-Stack Developer • 🧠 ML Engineer • ☁️ Cloud Enthusiast**
 
 I’m a builder at heart who loves turning ideas into scalable systems.  
 From designing robust APIs to experimenting with LLMs, I focus on writing clean, efficient, and secure backend code — the kind that actually scales.  
@@ -40,6 +40,9 @@ Now I’m obsessed with system design, backend architecture, and integrating int
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 ### 🛡️ Cybersecurity Toolkit
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
@@ -51,35 +54,38 @@ Now I’m obsessed with system design, backend architecture, and integrating int
 
 ---
 
-## 🚀 Featured Security Projects
+## � Featured Projects
 
-### 🛡️ DDoS Detection Framework
-**AI-Powered Network Security Solution**
-- 🔍 Real-time traffic analysis with ML-based threat detection
-- 📊 Advanced logging system with automated alerts
-- 🌐 Scalable architecture for enterprise deployment
+### 🌐 Phoenix Cybersecurity Club Website
+**Full-Stack Web Application**
+- 🎨 Built responsive UI with React and modern CSS frameworks
+- ⚡ Developed RESTful APIs using Node.js and Express
+- 🗄️ Designed and optimized MongoDB database schemas
+- 🔐 Implemented JWT-based authentication and authorization
 
-**Tech:** `Npcap` `CPP` `Networking` `Security`
-
----
-
-### 🕷️ Web Vulnerability Scanner
-**Automated Security Assessment Tool**
-- 🔎 OWASP Top 10 vulnerability detection engine
-- 🚨 Custom payload injection with smart fuzzing
-- 📝 Comprehensive vulnerability reports with remediation
-
-**Tech:** `Python` `Web Security` `OWASP` `Automation`
+**Tech:** `MERN Stack` `REST APIs` `JWT` `Responsive Design`
 
 ---
 
-### 🏛️ Phoenix Cybersecurity Club Website
-**Secure Full-Stack Web Platform**
-- 🔐 Advanced multi-factor authentication system
-- 🛡️ Security-first design with threat modeling
-- 🎯 Event management and member portal
+### 🤖 DDoS Detection System
+**ML-Powered Network Analytics Platform**
+- � Trained classification models using Scikit-learn and PyTorch
+- � Implemented data preprocessing pipelines with Pandas and NumPy
+- � Created real-time visualization dashboards with Matplotlib
+- 🔄 Built automated alerting and monitoring system
 
-**Tech:** `MERN Stack` `Security` `Full-Stack` `Web Dev`
+**Tech:** `Python` `PyTorch` `Scikit-learn` `Pandas` `NumPy` `Matplotlib`
+
+---
+
+### 🔍 Automated Web Security Scanner
+**Intelligent Testing & Analysis Tool**
+- 🏗️ Architected modular scanning engine in Python
+- 🧪 Implemented automated testing for common vulnerabilities
+- � Generated detailed reports with actionable insights
+- ⚙️ Integrated with CI/CD pipelines via REST APIs
+
+**Tech:** `Python` `REST APIs` `Automation` `Testing Frameworks`
 
 ---
 
@@ -93,109 +99,104 @@ Now I’m obsessed with system design, backend architecture, and integrating int
 
 ---
 
-## 🏆 Achievements & Experience
+## 🏆 Experience & Leadership
 
-### 🎯 **Penetration Testing Experience**
-```
-VulnHub Machines Compromised: DC-1, DC-2, Mr. Robot
-Lab Environments: Infrastructure PenTesting, Malware Analysis
-Security Assessments: SSL/SSH Testing, API Security Analysis
-```
+### 💼 **Professional Experience**
+**Backend Engineer Intern • Avadh School**
+- Developed and maintained backend services using Node.js and Express
+- Designed RESTful APIs and integrated with frontend applications
+- Optimized database queries and improved application performance
+- Collaborated with cross-functional teams using Git workflows
 
-### 🏫 **Professional Experience**
-**Avadh School Intern: Backend And Application Security Engineer**
-- Designed and developed secure web infrastructure
-- Implemented security best practices and hardening measures
-- Conducted security assessments and vulnerability remediation
+### � **Leadership & Community**
+**Vice Captain • Phoenix Cybersecurity Club**
+- Led technical workshops on web development and secure coding practices
+- Organized coding competitions and hackathons with 100+ participants
+- Mentored junior developers in full-stack development and best practices
+- Managed club operations and coordinated with technical teams
 
-### 🏅 **Phoenix Cybersecurity Club**
-- **Position:** Vice Captain of Phoenix Cybersecurity Club
-- **CTF Competitions:** Conducted, participated, and won multiple CTFs
-- **Community Building:** Organized security awareness workshops
-- **Knowledge Sharing:** Mentored junior members in ethical hacking
+### 🚀 **Entrepreneurial Experience**
+**Founder • Fenishop**
+- Built and launched campus e-commerce platform serving 500+ students
+- Managed end-to-end operations from development to customer support
+- Implemented data-driven strategies for inventory and demand forecasting
+- Scaled business operations while maintaining high customer satisfaction
 
-### 🚀 **Entrepreneurial Ventures**
-**Founder of Fenishop**
-- Established and operated a campus-based retail business
-- Delivered snacks, eatables, and essential student supplies to hostel residents
-- Built customer relationships and managed end-to-end operations
-
-### 🎤 **Event Coordination**
-- **E-eXPO(National Level):** Pitching Competition Coordinator
-- **CyberPunk(Department Level):** Very First Departmental Technical Competition Organizer
+### � **Event Leadership**
+- **E-eXPO (National Level):** Technical Competition Coordinator
+- **CyberPunk:** Organized first departmental hackathon with 200+ attendees
 
 ---
 
-## 📊 Security & Development Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayush2277&show_icons=true&theme=dark&hide_border=true&count_private=true&custom_title=Security%20%26%20Development%20Stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayush2277&show_icons=true&theme=dark&hide_border=true&count_private=true&custom_title=GitHub%20Stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush2277&layout=compact&theme=dark&hide_border=true&custom_title=Security%20Languages)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush2277&layout=compact&theme=dark&hide_border=true&custom_title=Most%20Used%20Languages)
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayush2277&theme=dark&hide_border=true&background=0D1117&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayush2277&theme=dark&hide_border=true&background=0D1117&stroke=0891B2&ring=0891B2&fire=0891B2&currStreakLabel=0891B2)
 
 </div>
 
 ---
 
-## 🎯 Current Mission
+## 🎯 What I'm Up To
 
 <div align="center">
 
 ```bash
-┌─[ayush@security]─[~]
-└──╼ $ whoami
-🔍 Currently Exploring: Machine Learning & Deep Learning Algorithms
-🛠️ Building: AI-powered security tools and ML projects  
-🎓 Status: Final year engineering student (Graduating this year!)
-💡 Focus: Bridging the gap between Cybersecurity and AI/ML
-🤝 Open to: Security research collaborations and ML projects
-📧 Contact: ayushbenny22@gmail.com
+┌─[ayush@developer]─[~]
+└──╼ $ cat current_focus.txt
+🔍 Learning: Advanced System Design & Microservices Architecture
+🛠️ Building: Full-stack applications with MERN + ML integration  
+🎓 Status: Final year Computer Science student (Graduating 2025!)
+💡 Interests: Backend Development, Machine Learning, Cloud Computing
+🤝 Open to: Software Development roles and collaborative projects
+📧 Reach me: ayushbenny22@gmail.com
 ```
 
 </div>
 
 ---
 
-## 🔐 Security Knowledge Base
+## � Technical Skills
 
 <div align="center">
 
-| **Category** | **Skills & Tools** |
+| **Category** | **Technologies** |
 |:---:|:---:|
-| **🔍 Penetration Testing** | `Burp Suite` `Metasploit` `Nmap` `Nessus` |
-| **🛡️ SOC & Threat Detection** | `Wazuh` `Splunk` `Log Analysis` `Incident Response` `SIEM` |
-| **🌐 Web Security** | `OWASP Top 10` `API Security` `SSL/SSH Testing` |
-| **🕵️ Network Security** | `Wireshark` `Network Analysis` `Malware Detection` |
-| **🏗️ Infrastructure** | `Linux Administration` `Windows Firewall` `System Hardening` |
-| **💻 Development** | `MERN Stack` `Secure Coding` `Full-Stack Development` |
-| **🤖 AI/ML Security** | `Python` `TensorFlow` `Algorithm Implementation` |
+| **🌐 Frontend** | `React` `JavaScript` `HTML/CSS` `Responsive Design` |
+| **⚙️ Backend** | `Node.js` `Express.js` `REST APIs` `Java` |
+| **�️ Databases** | `MongoDB` `Database Design` `Query Optimization` |
+| **🤖 ML/AI** | `Python` `PyTorch` `Scikit-learn` `Pandas` `NumPy` |
+| **� Data Visualization** | `Matplotlib` `Data Analysis` `Statistical Modeling` |
+| **☁️ Cloud & DevOps** | `AWS` `Git` `GitHub` `CI/CD` |
+| **� Tools** | `Postman` `VS Code` `Linux` `Agile/Scrum` |
+| **🛡️ Security** | `Secure Coding` `Web Security` `Penetration Testing` |
 
 </div>
 
 ---
 
-## 🤝 Let's Connect & Collaborate!
+## 🤝 Let's Connect!
 
 <div align="center">
 
-**Passionate about cybersecurity, ethical hacking, and building secure AI solutions!**
+**Passionate about building impactful software and solving challenging problems through code!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-benny-a962a7254/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushbenny22@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayush2277)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AyushBenny7)
 
-*"Securing the digital world, one vulnerability at a time"* 🛡️
+*"Building the future, one commit at a time"* �
 
-![Hacker GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
-
-![Profile Views](https://komarev.com/ghpvc/?username=ayush2277&color=red&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=ayush2277&color=0891b2&style=flat-square&label=Profile+Views)
 
 </div>
