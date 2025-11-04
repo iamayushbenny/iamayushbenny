@@ -1,8 +1,5 @@
-## Hi there 👋
 
-I'm Ayush Benny
-
-# 👋 Hey, I’m [Your Name]
+# 👋 Hey, I’m Ayush Benny
 
 **💻 Full-Stack Developer • 🧠 ML Engineer • ☁️ Cloud Enthusiast**
 
