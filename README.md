@@ -56,46 +56,82 @@ Now I’m obsessed with system design, backend architecture, and integrating int
 
 ## � Featured Projects
 
-### 🌐 Phoenix Cybersecurity Club Website
-**Full-Stack Web Application**
-- 🎨 Built responsive UI with React and modern CSS frameworks
-- ⚡ Developed RESTful APIs using Node.js and Express
-- 🗄️ Designed and optimized MongoDB database schemas
-- 🔐 Implemented JWT-based authentication and authorization
+# 🌐 Phoenix Cybersecurity Club Website
 
-**Tech:** `MERN Stack` `REST APIs` `JWT` `Responsive Design`
+A **full-stack MERN web application** built for the **Phoenix Cybersecurity Club** to manage members, events, and resources with secure authentication and a modern UI.
 
 ---
 
-### 🤖 DDoS Detection System
-**ML-Powered Network Analytics Platform**
-- � Trained classification models using Scikit-learn and PyTorch
-- � Implemented data preprocessing pipelines with Pandas and NumPy
-- � Created real-time visualization dashboards with Matplotlib
-- 🔄 Built automated alerting and monitoring system
+## ⚙️ Overview
+- Responsive **frontend** built with React and modern CSS  
+- **RESTful APIs** developed using Node.js & Express  
+- **MongoDB** for data storage and management  
+- **JWT-based authentication** for secure login and access control  
 
-**Tech:** `Python` `PyTorch` `Scikit-learn` `Pandas` `NumPy` `Matplotlib`
+---
+
+## 🧰 Tech Stack
+**Frontend:** React, CSS  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB  
+**Auth:** JSON Web Tokens (JWT)
+
+---
+
+---
+
+# 🤖 DDoS Detection System — Real-time Network Flood Detector (C++)
+
+A **real-time network monitoring tool** built in **C++** that captures live packets and detects common **DDoS flood attacks** — including **UDP Flood**, **SYN Flood**, and **HTTP Flood** — using rate-based threshold detection.
+
+---
+
+## ⚙️ Overview
+This project captures packets directly from network interfaces using **libpcap**, analyzes them in real time, and raises alerts when abnormal traffic patterns are detected.  
+It’s designed for performance, simplicity, and real-time monitoring — no external ML or heavy frameworks involved.
+
+---
+
+## 🚀 Features
+- 📡 Real-time packet capture using `libpcap`
+- 🌐 Monitors multiple interfaces simultaneously
+- ⚡ Detects UDP, SYN, and HTTP (GET) floods
+- 🧮 Sliding-window rate-based detection
+- 🔔 Real-time alerts in the console
+- 🧩 Lightweight and easily extensible
+
+---
+
+## 🧰 Tech Stack
+- **Language:** C++17  
+- **Library:** libpcap  
+- **Platform:** Linux  
+- **Build Tool:** g++  
+
+---
+
+## 🗂️ Project Structure
+
 
 ---
 
 ### 🔍 Automated Web Security Scanner
-**Intelligent Testing & Analysis Tool**
-- 🏗️ Architected modular scanning engine in Python
-- 🧪 Implemented automated testing for common vulnerabilities
-- � Generated detailed reports with actionable insights
-- ⚙️ Integrated with CI/CD pipelines via REST APIs
+# 🔎 Web Vulnerability Scanner (Python)
 
-**Tech:** `Python` `REST APIs` `Automation` `Testing Frameworks`
+A light-weight **crawler** written in **Python** that scans a target site for common web vulnerabilities and raises alerts when issues are found.
 
 ---
 
-### � BadUSB Emulator
-**Hardware-Based Social Engineering Tool**
-- 🕹️ Raspberry Pi Zero W powered USB attack platform
-- � Python automation scripts with Sliver C2 framework
-- � Remote shell access and payload delivery system
+## ⚙️ What it does
+- Crawls pages on a target domain
+- Scans for **IDOR**, **SQL Injection (SQLi)** and **Cross-Site Scripting (XSS)** patterns
+- Emits an alert when a potential vulnerability is detected
 
-**Tech:** `Raspberry Pi` `Python` `Sliver Framework` `Hardware Hacking`
+---
+
+## 🧰 Tech
+- **Language:** Python 3.8+  
+- Typical libraries: `requests`, `beautifulsoup4`
 
 ---
 
@@ -105,26 +141,35 @@ Now I’m obsessed with system design, backend architecture, and integrating int
 **Backend Engineer Intern • Avadh School**
 - Developed and maintained backend services using Node.js and Express
 - Designed RESTful APIs and integrated with frontend applications
-- Optimized database queries and improved application performance
-- Collaborated with cross-functional teams using Git workflows
+- Optimized database  and improved application performance
+- Collaborated with cross-functional developers using Git workflows
 
-### � **Leadership & Community**
+### 💼 **Leadership & Community**
 **Vice Captain • Phoenix Cybersecurity Club**
-- Led technical workshops on web development and secure coding practices
-- Organized coding competitions and hackathons with 100+ participants
-- Mentored junior developers in full-stack development and best practices
-- Managed club operations and coordinated with technical teams
+
+- 🧭 Takes key **leadership decisions** and manages **club finances & operations**  
+- 🕵️‍♂️ Led **cybersecurity projects** and **CTF (Capture The Flag)** initiatives  
+- 🏆 **Participated in and organized CTF competitions**, achieving multiple wins  
+- 💡 Conducted **cybersecurity awareness programs** and technical workshops  
+- 👨‍🏫 **Mentored junior members** in cybersecurity fundamentals and project execution  
+- 🤝 Collaborated with the other clubs in Nagpur
+
 
 ### 🚀 **Entrepreneurial Experience**
 **Founder • Fenishop**
-- Built and launched campus e-commerce platform serving 500+ students
-- Managed end-to-end operations from development to customer support
-- Implemented data-driven strategies for inventory and demand forecasting
-- Scaled business operations while maintaining high customer satisfaction
+**Campus Food & Snacks Delivery Startup**
+
+- 🧠 Conducted in-depth **market research** to identify campus delivery needs  
+- 💬 Led **negotiations** with local vendors and service providers  
+- 💸 Managed **finances and budgeting** to maintain sustainable operations  
+- 👥 Built and guided a **cross-functional team**, focusing on collaboration and ownership  
+- 🚀 Applied **startup fundamentals** — from ideation and MVP design to execution and scaling  
+
+**Skills:** `Entrepreneurship` `Leadership` `Team Management` `Business Strategy` `Market Research` `Finance Handling`
 
 ### � **Event Leadership**
-- **E-eXPO (National Level):** Technical Competition Coordinator
-- **CyberPunk:** Organized first departmental hackathon with 200+ attendees
+- **E-eXPO (National Level):** Pitching Competition Coordinator
+- **CyberPunk:** Organized first departmental hackathon with 100+ attendees
 
 ---
 
@@ -146,57 +191,58 @@ Now I’m obsessed with system design, backend architecture, and integrating int
 
 ---
 
-## 🎯 What I'm Up To
+## 🎯 Current Mission
 
 <div align="center">
 
 ```bash
-┌─[ayush@developer]─[~]
-└──╼ $ cat current_focus.txt
-🔍 Learning: Advanced System Design & Microservices Architecture
-🛠️ Building: Full-stack applications with MERN + ML integration  
-🎓 Status: Final year Computer Science student (Graduating 2025!)
-💡 Interests: Backend Development, Machine Learning, Cloud Computing
-🤝 Open to: Software Development roles and collaborative projects
-📧 Reach me: ayushbenny22@gmail.com
+┌─[ayush@security]─[~]
+└──╼ $ whoami
+🔍 Currently Exploring: Machine Learning & Deep Learning Algorithms
+🛠️ Building: AI-powered security tools and ML projects  
+🎓 Status: Final year engineering student (Graduating this year!)
+💡 Focus: Bridging the gap between Cybersecurity and AI/ML
+🤝 Open to: Security research collaborations and ML projects
+📧 Contact: ayushbenny22@gmail.com
 ```
 
 </div>
 
 ---
 
-## � Technical Skills
+## 🔐 Security Knowledge Base
 
 <div align="center">
 
-| **Category** | **Technologies** |
+| **Category** | **Skills & Tools** |
 |:---:|:---:|
-| **🌐 Frontend** | `React` `JavaScript` `HTML/CSS` `Responsive Design` |
-| **⚙️ Backend** | `Node.js` `Express.js` `REST APIs` `Java` |
-| **�️ Databases** | `MongoDB` `Database Design` `Query Optimization` |
-| **🤖 ML/AI** | `Python` `PyTorch` `Scikit-learn` `Pandas` `NumPy` |
-| **� Data Visualization** | `Matplotlib` `Data Analysis` `Statistical Modeling` |
-| **☁️ Cloud & DevOps** | `AWS` `Git` `GitHub` `CI/CD` |
-| **� Tools** | `Postman` `VS Code` `Linux` `Agile/Scrum` |
-| **🛡️ Security** | `Secure Coding` `Web Security` `Penetration Testing` |
+| **🔍 Penetration Testing** | `Burp Suite` `Metasploit` `Nmap` `Nessus` |
+| **🛡️ SOC & Threat Detection** | `Wazuh` `Splunk` `Log Analysis` `Incident Response` `SIEM` |
+| **🌐 Web Security** | `OWASP Top 10` `API Security` `SSL/SSH Testing` |
+| **🕵️ Network Security** | `Wireshark` `Network Analysis` `Malware Detection` |
+| **🏗️ Infrastructure** | `Linux Administration` `Windows Firewall` `System Hardening` |
+| **💻 Development** | `MERN Stack` `Secure Coding` `Full-Stack Development` |
+| **🤖 AI/ML Security** | `Python` `TensorFlow` `Algorithm Implementation` |
 
 </div>
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect & Collaborate!
 
 <div align="center">
 
-**Passionate about building impactful software and solving challenging problems through code!**
+**Passionate about cybersecurity, ethical hacking, and building secure AI solutions!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-benny-a962a7254/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushbenny22@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayush2277)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white)](#)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AyushBenny7)
 
-*"Building the future, one commit at a time"* �
+*"Securing the digital world, one vulnerability at a time"* 🛡️
 
-![Profile Views](https://komarev.com/ghpvc/?username=ayush2277&color=0891b2&style=flat-square&label=Profile+Views)
+![Hacker GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ayush2277&color=red&style=flat-square&label=Profile+Views)
 
 </div>
