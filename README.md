@@ -2,50 +2,50 @@
 
 I'm Ayush Benny
 
-**🔐 Cybersecurity Enthusiast • 💻 Full-Stack Developer • 🤖 AI/ML Explorer**
+# 👋 Hey, I’m [Your Name]
 
-I’m a restless builder who refuses to stick to one stack. Whether it’s breaking into systems to understand them, securing what I build, or experimenting with AI to create cooler stuff — I’m always chasing the next challenge. I think like a hacker, code like a maker, and move like an entrepreneur. Always learning, always shipping. 🚀
+**💻 Software Developer • ⚙️ Backend Engineer • 🧠 AI Explorer**
 
-Let’s connect, collab, or just geek out on cool ideas — I’m always up for it.
+I’m a builder at heart who loves turning ideas into scalable systems.  
+From designing robust APIs to experimenting with LLMs, I focus on writing clean, efficient, and secure backend code — the kind that actually scales.  
 
-⚡ AI x Security | Builder @ Heart | Hacker Mindset | Aspiring Entrepreneur
+I started with breaking and securing systems (thanks, cybersecurity 👀), but I’ve since moved toward building them — better, faster, and smarter.  
+Now I’m obsessed with system design, backend architecture, and integrating intelligence (AI/DL) into everyday dev workflows.
 
 ---
 
-## 🛡️ Security Arsenal & Tech Stack
+## �️ Tech Stack
 
 <div align="center">
 
-### 🔍 Penetration Testing & Security Tools
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0078D4?style=for-the-badge&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white)
-
-### 🛡️ SOC & Threat Detection
-![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![SIEM](https://img.shields.io/badge/Log_Analysis-FF6B35?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Incident Response](https://img.shields.io/badge/Incident_Response-DC143C?style=for-the-badge&logo=security&logoColor=white)
-
-### 💻 Development Stack
+### � Core Development
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🤖 AI/ML & Analytics
+### 🧠 Algorithms & Tools
+![Data Structures](https://img.shields.io/badge/Data_Structures-0A66C2?style=for-the-badge&logo=leetcode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🤖 Data & ML Engineering
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### 🌐 Infrastructure & OS
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### 🛡️ Cybersecurity Toolkit
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0078D4?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 </div>
 
