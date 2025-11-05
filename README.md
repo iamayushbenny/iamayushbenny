@@ -1,5 +1,5 @@
 
-# 👋 Hey, I’m Ayush Benny
+# 👋 Hey, I'm Ayush Benny
 
 **💻 Software Engineer • 🧠 Backend Developer • ☁️ AI/ML Enthusiast**
 
@@ -11,11 +11,11 @@ Now I’m obsessed with system design, backend architecture, and integrating int
 
 ---
 
-## �️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### � Core Development
+### 💻 Core Development
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -51,9 +51,9 @@ Now I’m obsessed with system design, backend architecture, and integrating int
 
 ---
 
-## � Featured Projects
+## 💼 Featured Projects
 
-# 🌐 Phoenix Cybersecurity Club Website
+### 🌐 Phoenix Cybersecurity Club Website
 
 A **full-stack MERN web application** built for the **Phoenix Cybersecurity Club** to manage members, events, and resources with secure authentication and a modern UI.
 
@@ -77,7 +77,7 @@ A **full-stack MERN web application** built for the **Phoenix Cybersecurity Club
 
 ---
 
-# 🤖 DDoS Detection System — Real-time Network Flood Detector (C++)
+### 🤖 DDoS Detection System — Real-time Network Flood Detector (C++)
 
 A **real-time network monitoring tool** built in **C++** that captures live packets and detects common **DDoS flood attacks** — including **UDP Flood**, **SYN Flood**, and **HTTP Flood** — using rate-based threshold detection.
 
@@ -113,7 +113,8 @@ It’s designed for performance, simplicity, and real-time monitoring — no ext
 ---
 
 ### 🔍 Automated Web Security Scanner
-# 🔎 Web Vulnerability Scanner (Python)
+
+### 🔎 Web Vulnerability Scanner (Python)
 
 A light-weight **crawler** written in **Python** that scans a target site for common web vulnerabilities and raises alerts when issues are found.
 
@@ -164,7 +165,7 @@ A light-weight **crawler** written in **Python** that scans a target site for co
 
 **Skills:** `Entrepreneurship` `Leadership` `Team Management` `Business Strategy` `Market Research` `Finance Handling`
 
-### � **Event Leadership**
+### 🎯 **Event Leadership**
 - **E-eXPO (National Level):** Pitching Competition Coordinator
 - **CyberPunk:** Organized first departmental hackathon with 100+ attendees
 
@@ -202,12 +203,15 @@ A light-weight **crawler** written in **Python** that scans a target site for co
 🚀 Focus: Building Secure, Intelligent, and High-Performance Systems  
 🤝 Open to: Backend Development, AI Integration & Security-focused Projects  
 📧 Contact: ayushbenny22@gmail.com
+```
+
+</div>
 
 ---
 
-## 🔐 Security Knowledge Base
+## � Technical Skills
 
-<<div align="center">
+<div align="center">
 
 | **Category** | **Skills & Tools** |
 |:---:|:---:|
@@ -224,21 +228,19 @@ A light-weight **crawler** written in **Python** that scans a target site for co
 
 ---
 
-## 🤝 Let's Connect & Collaborate!
+## 🤝 Let's Connect!
 
 <div align="center">
 
-**Passionate about cybersecurity, ethical hacking, and building secure AI solutions!**
+**Passionate about building impactful software and solving challenging problems through code!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-benny-a962a7254/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushbenny22@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayush2277)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AyushBenny7)
 
-*"Securing the digital world, one vulnerability at a time"* 🛡️
+*"Building the future, one commit at a time"* �
 
-![Hacker GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
-
-![Profile Views](https://komarev.com/ghpvc/?username=ayush2277&color=red&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=ayush2277&color=0891b2&style=flat-square&label=Profile+Views)
 
 </div>
