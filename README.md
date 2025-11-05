@@ -157,15 +157,15 @@ A lightweight <strong>crawler written in Python</strong> that scans target sites
 <div align="center">
 
 ```bash
-                     ┌─[ayush@devlab]─[~]
-                     └──╼ $ whoami
+        ┌─[ayush@devlab]─[~]
+        └──╼ $ whoami
         💻 Currently Building: Scalable Backend Systems & AI-driven Applications  
-                ⚙️ Exploring: Distributed Systems, APIs, and System Design  
+        ⚙️ Exploring: Distributed Systems, APIs, and System Design  
         🧠 Passion: Merging Software Engineering with Cybersecurity & AI/ML  
-            🎓 Status: Final Year Engineering Student (Graduating this year!)  
+        🎓 Status: Final Year Engineering Student (Graduating this year!)  
         🚀 Focus: Building Secure, Intelligent, and High-Performance Systems  
         🤝 Open to: Backend Development, AI Integration & Security-focused Projects  
-                        📧 Contact: ayushbenny22@gmail.com
+        📧 Contact: ayushbenny22@gmail.com
 ```
 
 </div>
