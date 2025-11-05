@@ -1,13 +1,14 @@
-
 # 👋 Hey, I'm Ayush Benny
 
 **💻 Software Engineer • 🧠 Backend Developer • ☁️ AI/ML Enthusiast**
 
-I’m a builder at heart who loves turning ideas into scalable systems.  
-From designing robust APIs to experimenting with LLMs, I focus on writing clean, efficient, and secure backend code — the kind that actually scales.  
+<p align="left">
+I'm a builder at heart who loves turning ideas into scalable systems. From designing robust APIs to experimenting with LLMs, I focus on writing clean, efficient, and secure backend code — the kind that actually scales.
+</p>
 
-I started with breaking and securing systems (thanks, cybersecurity 👀), but I’ve since moved toward building them — better, faster, and smarter.  
-Now I’m obsessed with system design, backend architecture, and integrating intelligence (AI/DL) into everyday dev workflows.
+<p align="left">
+I started with breaking and securing systems (thanks, cybersecurity 👀), but I've since moved toward building them — better, faster, and smarter. Now I'm obsessed with system design, backend architecture, and integrating intelligence (AI/DL) into everyday dev workflows.
+</p>
 
 ---
 
@@ -55,114 +56,79 @@ Now I’m obsessed with system design, backend architecture, and integrating int
 
 ### 🌐 Phoenix Cybersecurity Club Website
 
-A **full-stack MERN web application** built for the **Phoenix Cybersecurity Club** to manage members, events, and resources with secure authentication and a modern UI.
+<p align="left">
+A <strong>full-stack MERN web application</strong> built for the Phoenix Cybersecurity Club to manage members, events, and resources with secure authentication and a modern UI.
+</p>
+
+#### Key Features
+- Responsive frontend built with React and modern CSS  
+- RESTful APIs developed using Node.js & Express  
+- MongoDB for data storage and management  
+- JWT-based authentication for secure login and access control  
+
+**Tech Stack:** `React` `Node.js` `Express.js` `MongoDB` `JWT`
 
 ---
 
-## ⚙️ Overview
-- Responsive **frontend** built with React and modern CSS  
-- **RESTful APIs** developed using Node.js & Express  
-- **MongoDB** for data storage and management  
-- **JWT-based authentication** for secure login and access control  
+### 🤖 DDoS Detection System
+
+<p align="left">
+A <strong>real-time network monitoring tool</strong> built in C++ that captures live packets and detects common DDoS flood attacks — including UDP Flood, SYN Flood, and HTTP Flood — using rate-based threshold detection.
+</p>
+
+#### Key Features
+- Real-time packet capture using `libpcap`
+- Monitors multiple interfaces simultaneously
+- Detects UDP, SYN, and HTTP (GET) floods
+- Sliding-window rate-based detection
+- Real-time alerts in the console
+- Lightweight and easily extensible
+
+**Tech Stack:** `C++17` `libpcap` `Linux` `g++`
 
 ---
 
-## 🧰 Tech Stack
-**Frontend:** React, CSS  
-**Backend:** Node.js, Express.js  
-**Database:** MongoDB  
-**Auth:** JSON Web Tokens (JWT)
+### 🔎 Web Vulnerability Scanner
 
----
+<p align="left">
+A lightweight <strong>crawler written in Python</strong> that scans target sites for common web vulnerabilities and raises alerts when issues are found.
+</p>
 
----
-
-### 🤖 DDoS Detection System — Real-time Network Flood Detector (C++)
-
-A **real-time network monitoring tool** built in **C++** that captures live packets and detects common **DDoS flood attacks** — including **UDP Flood**, **SYN Flood**, and **HTTP Flood** — using rate-based threshold detection.
-
----
-
-## ⚙️ Overview
-This project captures packets directly from network interfaces using **libpcap**, analyzes them in real time, and raises alerts when abnormal traffic patterns are detected.  
-It’s designed for performance, simplicity, and real-time monitoring — no external ML or heavy frameworks involved.
-
----
-
-## 🚀 Features
-- 📡 Real-time packet capture using `libpcap`
-- 🌐 Monitors multiple interfaces simultaneously
-- ⚡ Detects UDP, SYN, and HTTP (GET) floods
-- 🧮 Sliding-window rate-based detection
-- 🔔 Real-time alerts in the console
-- 🧩 Lightweight and easily extensible
-
----
-
-## 🧰 Tech Stack
-- **Language:** C++17  
-- **Library:** libpcap  
-- **Platform:** Linux  
-- **Build Tool:** g++  
-
----
-
----
-
-### 🔍 Automated Web Security Scanner
-
-### 🔎 Web Vulnerability Scanner (Python)
-
-A light-weight **crawler** written in **Python** that scans a target site for common web vulnerabilities and raises alerts when issues are found.
-
----
-
-## ⚙️ What it does
+#### Key Features
 - Crawls pages on a target domain
-- Scans for **IDOR**, **SQL Injection (SQLi)** and **Cross-Site Scripting (XSS)** patterns
-- Emits an alert when a potential vulnerability is detected
+- Scans for IDOR, SQL Injection (SQLi) and Cross-Site Scripting (XSS) patterns
+- Emits alerts when potential vulnerabilities are detected
 
----
-
-## 🧰 Tech
-- **Language:** Python 3.8+  
-- Typical libraries: `requests`, `beautifulsoup4`
+**Tech Stack:** `Python 3.8+` `requests` `beautifulsoup4`
 
 ---
 
 ## 🏆 Experience & Leadership
 
-### 💼 **Professional Experience**
-**Backend Engineer Intern • Avadh School**
+#### 💼 Backend Engineer Intern • Avadh School
 - Developed and maintained backend services using Node.js and Express
 - Designed RESTful APIs and integrated with frontend applications
-- Optimized database  and improved application performance
+- Optimized database and improved application performance
 - Collaborated with cross-functional developers using Git workflows
 
-### 💼 **Leadership & Community**
-**Vice Captain • Phoenix Cybersecurity Club**
+#### 💼 Vice Captain • Phoenix Cybersecurity Club
+- Takes key leadership decisions and manages club finances & operations  
+- Led cybersecurity projects and CTF (Capture The Flag) initiatives  
+- Participated in and organized CTF competitions, achieving multiple wins  
+- Conducted cybersecurity awareness programs and technical workshops  
+- Mentored junior members in cybersecurity fundamentals and project execution  
+- Collaborated with other clubs in Nagpur
 
-- 🧭 Takes key **leadership decisions** and manages **club finances & operations**  
-- 🕵️‍♂️ Led **cybersecurity projects** and **CTF (Capture The Flag)** initiatives  
-- 🏆 **Participated in and organized CTF competitions**, achieving multiple wins  
-- 💡 Conducted **cybersecurity awareness programs** and technical workshops  
-- 👨‍🏫 **Mentored junior members** in cybersecurity fundamentals and project execution  
-- 🤝 Collaborated with the other clubs in Nagpur
+#### 🚀 Founder • Fenishop
+<p align="left"><em>Campus Food & Snacks Delivery Startup</em></p>
 
+- Conducted in-depth market research to identify campus delivery needs  
+- Led negotiations with local vendors and service providers  
+- Managed finances and budgeting to maintain sustainable operations  
+- Built and guided a cross-functional team, focusing on collaboration and ownership  
+- Applied startup fundamentals — from ideation and MVP design to execution and scaling  
 
-### 🚀 **Entrepreneurial Experience**
-**Founder • Fenishop**
-**Campus Food & Snacks Delivery Startup**
-
-- 🧠 Conducted in-depth **market research** to identify campus delivery needs  
-- 💬 Led **negotiations** with local vendors and service providers  
-- 💸 Managed **finances and budgeting** to maintain sustainable operations  
-- 👥 Built and guided a **cross-functional team**, focusing on collaboration and ownership  
-- 🚀 Applied **startup fundamentals** — from ideation and MVP design to execution and scaling  
-
-**Skills:** `Entrepreneurship` `Leadership` `Team Management` `Business Strategy` `Market Research` `Finance Handling`
-
-### 🎯 **Event Leadership**
+#### 🎯 Event Leadership
 - **E-eXPO (National Level):** Pitching Competition Coordinator
 - **CyberPunk:** Organized first departmental hackathon with 100+ attendees
 
@@ -206,11 +172,11 @@ A light-weight **crawler** written in **Python** that scans a target site for co
 
 ---
 
-## � Technical Skills
+## 💻 Technical Skills
 
 <div align="center">
 
-| **Category** | **Skills & Tools** |
+| **Category** | **Technologies** |
 |:---:|:---:|
 | **⚙️ Backend Development** | `Node.js` `Express.js` `RESTful APIs` `Microservices` `System Design` |
 | **🗄️ Databases & Cloud** | `MongoDB` `PostgreSQL` `Redis` `AWS` `Docker` `CI/CD` |
@@ -221,7 +187,6 @@ A light-weight **crawler** written in **Python** that scans a target site for co
 | **🔍 Cybersecurity Insight** | `Threat Modeling` `Vulnerability Assessment` `Secure Architecture` |
 
 </div>
-
 
 ---
 
@@ -236,7 +201,7 @@ A light-weight **crawler** written in **Python** that scans a target site for co
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayush2277)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AyushBenny7)
 
-*"Building the future, one commit at a time"* �
+*"Building the future, one commit at a time"* 🚀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ayush2277&color=0891b2&style=flat-square&label=Profile+Views)
 
