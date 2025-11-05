@@ -191,15 +191,15 @@ A light-weight **crawler** written in **Python** that scans a target site for co
 <div align="center">
 
 ```bash
-┌─[ayush@devlab]─[~]
-└──╼ $ whoami
-💻 Currently Building: Scalable Backend Systems & AI-driven Applications  
-⚙️ Exploring: Distributed Systems, APIs, and System Design  
-🧠 Passion: Merging Software Engineering with Cybersecurity & AI/ML  
-🎓 Status: Final Year Engineering Student (Graduating this year!)  
-🚀 Focus: Building Secure, Intelligent, and High-Performance Systems  
-🤝 Open to: Backend Development, AI Integration & Security-focused Projects  
-📧 Contact: ayushbenny22@gmail.com
+                     ┌─[ayush@devlab]─[~]
+                     └──╼ $ whoami
+        💻 Currently Building: Scalable Backend Systems & AI-driven Applications  
+                ⚙️ Exploring: Distributed Systems, APIs, and System Design  
+        🧠 Passion: Merging Software Engineering with Cybersecurity & AI/ML  
+            🎓 Status: Final Year Engineering Student (Graduating this year!)  
+        🚀 Focus: Building Secure, Intelligent, and High-Performance Systems  
+        🤝 Open to: Backend Development, AI Integration & Security-focused Projects  
+                        📧 Contact: ayushbenny22@gmail.com
 ```
 
 </div>
