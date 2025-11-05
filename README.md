@@ -107,9 +107,6 @@ It’s designed for performance, simplicity, and real-time monitoring — no ext
 
 ---
 
-## 🗂️ Project Structure
-
-
 ---
 
 ### 🔍 Automated Web Security Scanner
