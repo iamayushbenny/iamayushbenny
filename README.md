@@ -1,7 +1,7 @@
 
 # 👋 Hey, I’m Ayush Benny
 
-**💻 Full-Stack Developer • 🧠 ML Engineer • ☁️ Cloud Enthusiast**
+**💻 Software Engineer • 🧠 Backend Developer • ☁️ AI/ML Enthusiast**
 
 I’m a builder at heart who loves turning ideas into scalable systems.  
 From designing robust APIs to experimenting with LLMs, I focus on writing clean, efficient, and secure backend code — the kind that actually scales.  
@@ -193,35 +193,34 @@ A light-weight **crawler** written in **Python** that scans a target site for co
 <div align="center">
 
 ```bash
-┌─[ayush@security]─[~]
+┌─[ayush@devlab]─[~]
 └──╼ $ whoami
-🔍 Currently Exploring: Machine Learning & Deep Learning Algorithms
-🛠️ Building: AI-powered security tools and ML projects  
-🎓 Status: Final year engineering student (Graduating this year!)
-💡 Focus: Bridging the gap between Cybersecurity and AI/ML
-🤝 Open to: Security research collaborations and ML projects
+💻 Currently Building: Scalable Backend Systems & AI-driven Applications  
+⚙️ Exploring: Distributed Systems, APIs, and System Design  
+🧠 Passion: Merging Software Engineering with Cybersecurity & AI/ML  
+🎓 Status: Final Year Engineering Student (Graduating this year!)  
+🚀 Focus: Building Secure, Intelligent, and High-Performance Systems  
+🤝 Open to: Backend Development, AI Integration & Security-focused Projects  
 📧 Contact: ayushbenny22@gmail.com
-```
-
-</div>
 
 ---
 
 ## 🔐 Security Knowledge Base
 
-<div align="center">
+<<div align="center">
 
 | **Category** | **Skills & Tools** |
 |:---:|:---:|
-| **🔍 Penetration Testing** | `Burp Suite` `Metasploit` `Nmap` `Nessus` |
-| **🛡️ SOC & Threat Detection** | `Wazuh` `Splunk` `Log Analysis` `Incident Response` `SIEM` |
-| **🌐 Web Security** | `OWASP Top 10` `API Security` `SSL/SSH Testing` |
-| **🕵️ Network Security** | `Wireshark` `Network Analysis` `Malware Detection` |
-| **🏗️ Infrastructure** | `Linux Administration` `Windows Firewall` `System Hardening` |
-| **💻 Development** | `MERN Stack` `Secure Coding` `Full-Stack Development` |
-| **🤖 AI/ML Security** | `Python` `TensorFlow` `Algorithm Implementation` |
+| **⚙️ Backend Development** | `Node.js` `Express.js` `RESTful APIs` `Microservices` `System Design` |
+| **🗄️ Databases & Cloud** | `MongoDB` `PostgreSQL` `Redis` `AWS` `Docker` `CI/CD` |
+| **💻 Software Engineering** | `Data Structures & Algorithms` `Design Patterns` `Version Control (Git)` |
+| **🧠 AI/ML Integration** | `Python` `TensorFlow` `Scikit-learn` `LLM Integration` `Data Pipelines` |
+| **🛡️ Secure Development** | `Authentication & Authorization` `Encryption` `Web Security (OWASP)` |
+| **🌐 Full Stack Tools** | `React.js` `Next.js` `TailwindCSS` `API Integration` |
+| **🔍 Cybersecurity Insight** | `Threat Modeling` `Vulnerability Assessment` `Secure Architecture` |
 
 </div>
+
 
 ---
 
